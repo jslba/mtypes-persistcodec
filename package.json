@@ -1,0 +1,28 @@
+{
+	"name": "mtypes-persistcodec",
+	"version": "0.0.1",
+	"description": "An implementation of PersistCodec.",
+	"main": "source/index.js",
+	"scripts": {
+		"test": "jest --config=test/jest.config.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/jslba/mtypes-persistcodec.git"
+	},
+	"keywords": [
+		"mtypes"
+	],
+	"author": "Angelisium",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/jslba/mtypes-persistcodec/issues"
+	},
+	"homepage": "https://github.com/jslba/mtypes-persistcodec#readme",
+	"dependencies": {
+		"mtypes-bitcodec": "^0.0.1"
+	},
+	"devDependencies": {
+		"jest": "^29.3.1"
+	}
+}
