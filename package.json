@@ -23,6 +23,6 @@
 		"mtypes-bitcodec": "^0.0.1"
 	},
 	"devDependencies": {
-		"jest": "^29.3.1"
+		"jest": "^29.4.3"
 	}
 }
